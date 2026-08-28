@@ -1,5 +1,4 @@
-
-* Is the World Continuous or Discrete? 
+# Is the World Continuous or Discrete? 
 
 The following is my personal view, not a textbook position. Readers are encouraged to read critically.**
 
