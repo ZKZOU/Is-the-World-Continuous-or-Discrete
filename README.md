@@ -1,5 +1,7 @@
 
-**Is the World Continuous or Discrete? The following is my personal view, not a textbook position. Readers are encouraged to read critically.**
+* Is the World Continuous or Discrete? 
+
+The following is my personal view, not a textbook position. Readers are encouraged to read critically.**
 
 Zou, Zhi Kai 邹志凯
 
